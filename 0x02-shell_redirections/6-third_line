@@ -1,2 +1,2 @@
 #!/bin/bash
-mapfile -s 2 -n 1 line 
+head -n 3 iacta | tail -n 1
