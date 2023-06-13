@@ -1,30 +1,33 @@
-total 32
-4 -rwxr--r-- 1 root root 38 Jun 12 06:42 0-hello_world
-0 -rw-r--r-- 1 root root  0 Jun 12 04:54 100-empty_casks
-0 -rw-r--r-- 1 root root  0 Jun 12 04:55 101-gifs
-0 -rw-r--r-- 1 root root  0 Jun 12 04:55 102-acrostic
-0 -rw-r--r-- 1 root root  0 Jun 12 04:55 103-the_biggest_fan
-0 -rw-r--r-- 1 root root  0 Jun 12 04:50 10-no_more_js
-0 -rw-r--r-- 1 root root  0 Jun 12 04:50 11-directories
-0 -rw-r--r-- 1 root root  0 Jun 12 04:50 12-newest_files
-0 -rw-r--r-- 1 root root  0 Jun 12 04:51 13-unique
-0 -rw-r--r-- 1 root root  0 Jun 12 04:51 14-findthatword
-0 -rw-r--r-- 1 root root  0 Jun 12 04:51 15-countthatword
-0 -rw-r--r-- 1 root root  0 Jun 12 04:52 16-whatsnext
-0 -rw-r--r-- 1 root root  0 Jun 12 04:52 17-hidethisword
-0 -rw-r--r-- 1 root root  0 Jun 12 04:52 18-letteronly
-0 -rw-r--r-- 1 root root  0 Jun 12 04:52 19-AZ
-4 -rwxr--r-- 1 root root 27 Jun 12 06:44 1-confused_smiley
-0 -rw-r--r-- 1 root root  0 Jun 12 04:53 20-hiago
-0 -rw-r--r-- 1 root root  0 Jun 12 04:53 21-reverse
-0 -rw-r--r-- 1 root root  0 Jun 12 04:53 22-users_and_homes
-4 -rwxr--r-- 1 root root 28 Jun 12 05:32 2-hellofile
-4 -rwxr--r-- 1 root root 39 Jun 12 06:31 3-twofiles
-4 -rwxr--r-- 1 root root 35 Jun 12 05:39 4-lastlines
-4 -rwxr--r-- 1 root root 35 Jun 12 05:44 5-firstlines
-0 -rw-r--r-- 1 root root  0 Jun 12 04:49 6-third_line
-0 -rw-r--r-- 1 root root  0 Jun 12 04:49 7-file
-4 -rwxr--r-- 1 root root 36 Jun 12 06:55 8-cwd_state
-0 -rw-r--r-- 1 root root  0 Jun 12 04:49 9-duplicate_last_line
-0 -rw-r--r-- 1 root root  0 Jun 12 06:55 ls_cwd_content
-4 -rw-r--r-- 1 root root 21 Jun 12 04:37 README.md
+total 100
+drwxr-xr-x 2 root root 4096 Jun 12 17:21 .
+drwxr-xr-x 6 root root  121 Jun 12 04:36 ..
+-rwxr--r-- 1 root root   33 Jun 12 17:08 0-hello_world
+-rw-r--r-- 1 root root    0 Jun 12 04:54 100-empty_casks
+-rw-r--r-- 1 root root    0 Jun 12 04:55 101-gifs
+-rw-r--r-- 1 root root    0 Jun 12 04:55 102-acrostic
+-rw-r--r-- 1 root root    0 Jun 12 04:55 103-the_biggest_fan
+-rwxr--r-- 1 root root   48 Jun 12 07:49 10-no_more_js
+-rwxr--r-- 1 root root   35 Jun 12 07:54 11-directories
+-rwxr--r-- 1 root root   32 Jun 12 08:12 12-newest_files
+-rwxr--r-- 1 root root   27 Jun 12 08:21 13-unique
+-rwxr--r-- 1 root root   36 Jun 12 08:25 14-findthatword
+-rwxr--r-- 1 root root   44 Jun 12 10:57 15-countthatword
+-rwxr--r-- 1 root root   41 Jun 12 11:04 16-whatsnext
+-rwxr--r-- 1 root root   38 Jun 12 16:43 17-hidethisword
+-rwxr--r-- 1 root root   53 Jun 12 16:47 18-letteronly
+-rwxr--r-- 1 root root   25 Jun 12 16:51 19-AZ
+-rwxr--r-- 1 root root   26 Jun 12 17:12 1-confused_smiley
+-rwxr--r-- 1 root root   23 Jun 12 16:56 20-hiago
+-rwxr--r-- 1 root root   16 Jun 12 17:00 21-reverse
+-rwxr--r-- 1 root root   45 Jun 12 17:04 22-users_and_homes
+-rwxr--r-- 1 root root   28 Jun 12 05:32 2-hellofile
+-rwxr--r-- 1 root root   39 Jun 12 06:31 3-twofiles
+-rwxr--r-- 1 root root   35 Jun 12 05:39 4-lastlines
+-rwxr--r-- 1 root root   35 Jun 12 05:44 5-firstlines
+-rwxr--r-- 1 root root   40 Jun 12 17:15 6-third_line
+-rwxr--r-- 1 root root   66 Jun 12 17:19 7-file
+-rwxr--r-- 1 root root   36 Jun 12 17:21 8-cwd_state
+-rwxr--r-- 1 root root   37 Jun 12 07:39 9-duplicate_last_line
+-rw-r--r-- 1 root root    0 Jun 12 07:40 iacta
+-rw-r--r-- 1 root root    0 Jun 12 17:22 ls_cwd_content
+-rw-r--r-- 1 root root   21 Jun 12 04:37 README.md
